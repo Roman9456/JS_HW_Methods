@@ -1,0 +1,17 @@
+{
+  "name": "js_methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "classes.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.3",
+    "babel-jest": "^29.7.0",
+    "istanbul": "^0.4.5",
+    "jest": "^29.7.0"
+  }
+}
